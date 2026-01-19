@@ -45,7 +45,9 @@
 
 ## 💻 核心脚本 (The Script)
 
-请将下方代码完整粘贴至 Automator 的脚本框内：
+请直接使用Workflow文件安装
+
+或请将下方代码完整粘贴至 Automator 的脚本框内：
 
 ```zsh
 #!/bin/zsh

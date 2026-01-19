@@ -2,7 +2,8 @@
 
 # 📦 mac-fast-7z
 
-**High-performance macOS Quick Action for 7-Zip Compression.** 专为 macOS 深度优化的极速 7z 自动化压缩工具，旨在解决原生 ZIP 效率低下与文件占用报错。
+**macOS Quick Action for 7-Zip Compression.** 
+自制简单7z小玩具，基于MacOS的Quick Action制作。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Platform: macOS](https://img.shields.io/badge/Platform-macOS%2011.0+-lightgrey.svg)](https://www.apple.com/macos/)
